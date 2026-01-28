@@ -61,16 +61,4 @@ AL --> AM[Cliente paga com juros e multa]
 AM --> AH
 ```
 
----
 
-## Como visualizar o fluxograma
-
-### Opção 1: GitHub / GitLab
-Basta fazer upload do arquivo para o GitHub ou GitLab - eles renderizam Mermaid automaticamente.
-
-### Opção 2: VS Code
-Instale a extensão **"Markdown Preview Mermaid Support"** e use `Ctrl+Shift+V` para visualizar.
-
-### Opção 3: Online
-Copie o código Mermaid (entre os \`\`\`mermaid) e cole em:
-- https://mermaid.live/
